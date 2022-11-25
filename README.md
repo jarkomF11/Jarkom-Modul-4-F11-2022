@@ -40,7 +40,7 @@
 | Total | 2618 | /20 |
 
 ### Tree
-![image](img/tree.png)
+![image](img/tree.jpg)
 
 ### Pembagian IP
 ### Tabel Subnetting
