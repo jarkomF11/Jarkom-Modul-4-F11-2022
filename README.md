@@ -17,7 +17,7 @@
 ![image](img/subnet.png)
 
 ### Tabel Subnetting
-| Subnet | Jumlah IP  | Netmask |
+| Subnet | Jumlah IP  | Length |
 | --- | --- | --- |
 | A1 | 1001 | /22 |
 | A2 | 51 | /26 |
