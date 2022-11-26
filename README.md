@@ -11,13 +11,15 @@
 ## Topologi
 ![image](img/topologi.png)
 
+
 ## VLSM
 
 ### Subnetting
 ![image](img/subnet.png)
 
+
 ### Tabel Subnetting
-| Subnet | Jumlah IP  | Length |
+| Subnet | Jumlah IP  | Netmask |
 | --- | --- | --- |
 | A1 | 1001 | /22 |
 | A2 | 51 | /26 |
@@ -42,8 +44,8 @@
 ### Tree
 ![image](img/tree.jpg)
 
+
 ### Pembagian IP
-### Tabel Subnetting
 | Subnet | Network ID  | Netmask |
 | --- | --- | --- |
 | A1 | 10.34.12.0 | 255.255.252.0 |
@@ -64,3 +66,29 @@
 | A16 | 10.34.10.128 | 255.255.255.128 |
 | A17 | 10.34.11.0 | 255.255.255.128 |
 | A18 | 10.34.0.32 | 255.255.255.252 |
+
+## CIDR
+
+### Subnetting
+![image](img/subnet.png)
+
+![image](img/cidr2.png)
+
+![image](img/cidr3.png)
+
+![image](img/cidr4.png)
+
+![image](img/cidr5.png)
+
+![image](img/cidr6.png)
+
+![image](img/cidr7.png)
+
+![image](img/cidr8.png)
+
+
+### Tabel Subnetting
+![image](img/CIDR.png)
+
+## Hasil
+![image](img/hasil.png)
